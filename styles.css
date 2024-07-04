@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background: rgb(90, 255, 134);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+}
+h2 {color: rgb(66, 65, 65);}
+
+.container {
+    text-align: center;
+}
